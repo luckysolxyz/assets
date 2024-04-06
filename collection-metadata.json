@@ -1,0 +1,31 @@
+{
+  "name": "LuckySol",
+  "symbol": "LUCKY",
+  "description": "A collection of lucky tickets waiting to be redeemed for rewards.",
+  "seller_fee_basis_points": 1000,
+  "external_url": "https://www.luckysol.xyz/",
+  "image": "https://luckysolxyz.github.io/assets/lucky-logo.png",
+  "attributes": [
+    
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "LUCKYyq7qN4BdnQCLZ6PTqrF12zs2jXX1g5Vqxa6ABx",
+        "verified": true,
+        "share": 90
+      },
+      {
+        "address": "LUCKYCQbgc5qjZD4f2jYu1EcPYdfkzWfocGQxhvyLHJ",
+        "verified": true,
+        "share": 10
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://luckysolxyz.github.io/assets/lucky-logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
